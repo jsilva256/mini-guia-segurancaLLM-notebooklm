@@ -79,7 +79,7 @@ Aqui documento o processo real de tentativa e erro ao interrogar o NotebookLM so
 **Prompt testado:**
 > "Monte um glossário dos termos técnicos das fontes."
 
-**Resultado:** glossário bom, mas com termos redundantes e alguns fora de escopo (ex: termos genéricos de IA não relacionados especificamente a segurança).
+**Resultado:** glossário bom, mas com termos redundantes e alguns fora de escopo, bruto e não filtrado (Disponível para visualização em "glossario-bruto.md").
 
 **Ajuste feito:**
 > "Monte um glossário APENAS com termos relacionados a ataques ou defesas de segurança em LLMs mencionados nas fontes, no formato: Termo — Definição em 1 frase — Fonte."
